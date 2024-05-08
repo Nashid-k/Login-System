@@ -12,3 +12,8 @@ Key functionalities of the system include:
 
 By implementing this login system, I've gained valuable experience in handling user authentication and session management in web development. It's a foundational step towards building more complex and secure applications using the MERN stack.
 
+# To run this in your system
+
+1.Download the zip and extract it
+2.Use npm install to install the exact versions of all the dependencies used in it 
+3.Run using commands
