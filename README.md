@@ -14,6 +14,8 @@ By implementing this login system, I've gained valuable experience in handling u
 
 # To run this in your system
 
-1.Download the zip and extract it
+1.Download and extract the zip
 2.Use npm install to install the exact versions of all the dependencies used in it 
-3.Run using commands
+3.Modify default email and password to your preferences which is sitiuated in router.js
+4.Run using npm commands
+
